@@ -2,69 +2,36 @@
 
 ## Your 8 week journey to proficiency starts today
 
-![Voyage](assets/voyage.jpg)
+![Voyage](assets/core.jpg)
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
 
 I'm so happy you're joining me on this path. We'll be building immensely satisfying projects in the coming weeks. Some will be easy, some will be challenging, many will ASTOUND you! The projects build on each other so you develop deeper and deeper expertise each week. One thing's for sure: you're going to have a lot of fun along the way.
 
-## IMPORTANT ANNOUNCEMENT - DECEMBER 2025 - PLEASE READ
+Any questions, please ask me on Udemy or at <ed@edwarddonner.com>. More details at the top of the course resources [here](https://edwarddonner.com/2024/11/13/llm-engineering-resources/).
 
-I am phasing in new, updated versions of all the course videos, with new videos and new code. I realize this can be jarring for people already on the course, and I will do my best to make this as smooth as possible.
+### Answers to the most common questions
 
-- Both video series will be available in Udemy and you can watch either. A new week should become available each week as we roll this out.
-- You can follow the original videos or the new videos - either should work great. Switch between them at any time.
-- The latest code is pushed to the repo. You can follow along with new code, or revert to original code.
-
-Full details of this upgrade is on the course resources in Purple at the top:  
-<https://edwarddonner.com/2024/11/13/llm-engineering-resources/>
-
-The most significant change is that the new version uses the fabulous uv, instead of Anaconda. But there's also tons of new content, including new models, tools and techniques. Prompt caching, LiteLLM, inference techniques and so much more.
-
-### How this is organized in Udemy
-
-We are rolling out the new weeks, but keeping the original content in an appendix:
-
-In Udemy:  
-
-Section 1 = NEW WEEK 1  
-Section 2 = NEW WEEK 2  
-Section 3 = NEW WEEK 3  
-Section 4 = NEW WEEK 4  
-Section 5 = NEW WEEK 5  
-Section 6 = NEW WEEK 6  
-Section 7 = Original Week 7
-Section 8 = Original Week 8
-
-Then as an appendix / archive:
-
-Section 9 = Original Week 1  
-Section 10 = Original Week 2  
-Section 11 = Original Week 3
-Section 12 = Original Week 4  
-Section 13 = Original Week 5  
-Section 14 = Original Week 6  
-
-### To revert to the original version of code, consistent with the original videos (Anaconda + virtualenv)
-
-If you'd prefer to stick with the code for the original videos, simply do this from your Anaconda Prompt or Terminal:  
-`git fetch`  
-`git checkout original`
-
-And that's it! Any questions, please ask me on Udemy or at <ed@edwarddonner.com>. More details at the top of the course resources [here](https://edwarddonner.com/2024/11/13/llm-engineering-resources/).
+[My Cursor looks different to yours (new splash screen)](https://edwarddonner.com/avatar?q=54)  
+[Can I use Gemini or free models instead of OpenAI Yes!](https://edwarddonner.com/avatar?q=8)  
+[Where are the course resources](https://edwarddonner.com/2024/11/13/llm-engineering-resources/)
+[How does this course fit in with your others?](https://edwarddonner.com/curriculum)  
+[Can I take this course with no programming background?](https://edwarddonner.com/avatar?q=2)  
+[What job can I get after taking this course?](https://edwarddonner.com/avatar?q=3)  
 
 ### Before you begin
 
 I'm here to help you be most successful with your learning. If you hit any snafus, or if you have any ideas on how I can improve the course, please do reach out in the platform or by emailing me direct (<ed@edwarddonner.com>). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
-<https://www.linkedin.com/in/eddonner/>  
+<https://www.linkedin.com/in/eddonner/>
 
+And I'm starting to build a YouTube channel with extra content - please [check it out here](https://youtube.com/@edward.donner).  
 And this is new to me, but I'm also trying out X/Twitter at [@edwarddonner](https://x.com/edwarddonner) - if you're on X, please show me how it's done 😂  
 
 Resources to accompany the course, including the slides and useful links, are here:  
 <https://edwarddonner.com/2024/11/13/llm-engineering-resources/>
 
-And a useful FAQ with common questions is here:  
-<https://edwarddonner.com/faq/>
+My digital twin that can answer common FAQ (and get me involved!) is here:  
+<https://edwarddonner.com/avatar/>
 
 ## Instant Gratification instructions for Week 1, Day 1 - with Llama 3.2 **not** Llama 3.3
 
